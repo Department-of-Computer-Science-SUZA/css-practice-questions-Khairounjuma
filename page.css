@@ -1,0 +1,65 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: #555;
+}
+
+h3 {
+    color: #777;
+}
+
+/* Tutorial Page Styles */
+.tutorial-page {
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+.tutorial-section {
+    margin-bottom: 20px;
+}
+
+.tutorial-section h3 {
+    margin-top: 0;
+}
+
+.tutorial-section ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.tutorial-section li {
+    margin-bottom: 10px;
+}
+
+.tutorial-section img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-top: 10px;
+}
+
+/* Links Styles */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
